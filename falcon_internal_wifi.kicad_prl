@@ -48,7 +48,7 @@
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffffff7_f7ffff7d",
+    "visible_layers": "00000000_00000000_0ffffff7_f7ffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -114,14 +114,14 @@
     "files": [
       {
         "name": "falcon_internal_wifi.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 169,
-          "pos_y": 84,
-          "size_x": 1190,
-          "size_y": 829
+          "pos_x": 159,
+          "pos_y": 12,
+          "size_x": 1396,
+          "size_y": 855
         }
       },
       {
@@ -130,8 +130,8 @@
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 143,
-          "pos_y": 88,
+          "pos_x": 71,
+          "pos_y": 71,
           "size_x": 1201,
           "size_y": 723
         }
