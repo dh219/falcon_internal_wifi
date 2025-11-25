@@ -2228,7 +2228,7 @@
 		(path "/3b1d1c56-8052-4613-89b3-242508629625")
 		(sheetname "/")
 		(sheetfile "falcon_internal_wifi.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start 1 -0.96)
 			(end -1.684999 -0.96)
@@ -4629,7 +4629,7 @@
 		(path "/d70d4957-2a5c-48c5-bf43-2b1e1b9ba0b8")
 		(sheetname "/")
 		(sheetfile "falcon_internal_wifi.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start 1 -0.96)
 			(end -1.684999 -0.96)

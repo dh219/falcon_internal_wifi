@@ -113,27 +113,27 @@
   "project": {
     "files": [
       {
-        "name": "falcon_internal_wifi.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 159,
-          "pos_y": 12,
-          "size_x": 1396,
-          "size_y": 855
-        }
-      },
-      {
         "name": "falcon_internal_wifi.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 71,
-          "pos_y": 71,
+          "pos_x": 158,
+          "pos_y": 91,
           "size_x": 1201,
           "size_y": 723
+        }
+      },
+      {
+        "name": "falcon_internal_wifi.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 62,
+          "pos_y": 0,
+          "size_x": 1396,
+          "size_y": 855
         }
       }
     ]
